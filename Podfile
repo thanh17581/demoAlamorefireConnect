@@ -7,4 +7,5 @@ target 'demo' do
 
   # Pods for demo
 pod 'Alamofire', '~> 5.2'
+pod 'ObjectMapper'
 end
